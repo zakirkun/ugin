@@ -5,7 +5,7 @@ go 1.17
 require (
 	github.com/didip/tollbooth v4.0.2+incompatible
 	github.com/gin-contrib/gzip v0.0.3
-	github.com/gin-gonic/gin v1.7.4
+	github.com/gin-gonic/gin v1.7.7
 	github.com/golang-jwt/jwt v3.2.2+incompatible
 	github.com/sirupsen/logrus v1.8.1
 	github.com/spf13/viper v1.9.0
